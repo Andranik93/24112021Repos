@@ -17,20 +17,20 @@ namespace ConsoleApp2
 
             if (ob1==ob2)
             {
-                Console.WriteLine("ob1==ob2 is true");
+                Console.WriteLine("ob1==ob2 is true!");
             }
             else
             {
-                Console.WriteLine("ob1==ob2 is false");
+                Console.WriteLine("ob1==ob2 is false!");
             }
 
             if (ob1.Equals(ob2))
             {
-                Console.WriteLine("b1.Equals(ob2) is true");
+                Console.WriteLine("b1.Equals(ob2) is true!");
             }
             else
             {
-                Console.WriteLine("b1.Equals(ob2) is false");
+                Console.WriteLine("b1.Equals(ob2) is false!");
             }
 
             Console.Read();
